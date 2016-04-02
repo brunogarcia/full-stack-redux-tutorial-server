@@ -1,2 +1,3 @@
-# full-stack-redux-tutorial
-Learning Full Stack Redux from http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
+# Learning Full Stack Redux
+
+http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
