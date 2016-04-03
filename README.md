@@ -1,4 +1,4 @@
-# Learning Full Stack Redux
+# Learning Full Stack Redux - Server Project
 
 ## Tutorial
 
@@ -10,6 +10,8 @@ http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html
 
 `apm install linter-eslint`
 
-## Run test
+## Tasks
 
-`npm run test`
+`npm run start`
+
+`npm run test.watch`
