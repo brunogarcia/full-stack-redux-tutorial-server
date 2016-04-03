@@ -2,7 +2,7 @@
 
 ## Tutorial
 
-[Server Project](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
+[Server Project](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html#the-server-application)
 
 ## Atom plugins
 
